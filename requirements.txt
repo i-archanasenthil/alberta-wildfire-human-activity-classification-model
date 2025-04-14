@@ -1,0 +1,17 @@
+langchain
+pandas
+numpy
+streamlit
+deepseek
+folium
+geopandas
+matplotlib
+seaborn
+scikit-learn
+plotly
+statsmodels
+langchain-community
+openai
+openpyxl
+langchain-experimental
+tabulate
