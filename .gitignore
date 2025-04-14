@@ -4,6 +4,6 @@
 .env
 .venv
 ENV/
-venv
+venv/
 
 .streamlit/
